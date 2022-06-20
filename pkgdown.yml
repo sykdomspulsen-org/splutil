@@ -1,0 +1,10 @@
+pandoc: '2.13'
+pkgdown: 2.0.2
+pkgdown_sha: ~
+articles:
+  splutil: splutil.html
+last_built: 2022-06-20T04:52Z
+urls:
+  reference: https://docs.sykdomspulsen.no/splutil/reference
+  article: https://docs.sykdomspulsen.no/splutil/articles
+
